@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemigo
+  - ArbolRoble
+  - MenaBronce
+  - Alerta
+  - EspacioInventario
+  - EspaciosInventario
+  - EspacioInventarioFondo
+  - VentanaInventario
+  - EspacioInventarioCantidad
+  - EspacioInventarioCantidadFondo
+  - Titulo
+  - Descripcion
+  - Tooltip
+  - VentanaTienda
+  - EspaciosTienda
+  - EspacioTienda
+  - EspacioTiendaFondo
+  - EspacioTiendaCantidad
+  - EspacioTiendaCantidadFondo
+  - Precio
+  - EscenarioBatalla
+  - Piso
+  - Jugador
+  - VentanaEstadisticas
+  - VentanaGuia
+  - DatoFuerza
+  - DatoAgilidad
+  - DatoInteligencia
+  - DatoVitalidad
+  - DatoTala
+  - DatoMineria
+  - DatoPersonaje
+  - DatoOro
+  - DatoVidaActual
+  - DatoExperiencia
+  - VentanaEnemigo
+  - CanvasPerdiste
+  - AudioSource
+  - PanelMenu
+  - VentanaCreditos
+  - BarraEventos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tooltip Layer
+    uniqueID: 3852553413
+    locked: 0
